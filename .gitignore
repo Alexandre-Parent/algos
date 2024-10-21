@@ -1,0 +1,46 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Node modules
+node_modules/
+
+# Dependency directories
+jspm_packages/
+
+# Typescript compiled files
+dist/
+build/
+out/
+*.tsbuildinfo
+
+# Optional npm cache directory
+.npm/
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# dotenv environment variables file
+.env
+.env.test
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# MacOS specific files
+.DS_Store
+
+# Jest coverage directory
+coverage/
+
+# Jest cache directory
+jest_cache/
